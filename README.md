@@ -1,3 +1,4 @@
 app.py is the python GUI file   
 guest_profile.json is the semi database where we save users' preferences  
-TIUO code is huge for github so you can access it through this: https://drive.google.com/file/d/1h-hDYHRmr3RGIct0TsR6_zAjVBCTlBWT/view?usp=sharing
+TIUO code is huge for github so you can access it through this: https://drive.google.com/file/d/1h-hDYHRmr3RGIct0TsR6_zAjVBCTlBWT/view?usp=sharing  
+Full code is available at: https://drive.google.com/drive/folders/13fu9ODdpkirk3RD_pLHh7XgUWxRBE-sQ?usp=drive_link
